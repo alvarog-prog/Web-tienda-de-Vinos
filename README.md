@@ -1,1 +1,3 @@
 # Web-tienda-de-Vinos
+
+Copa&Click nace entre amigos y catas caseras con una idea clara: elegir vino no tiene por qué ser complicado. Visitamos pequeñas bodegas, elegimos lotes con identidad y contamos cada botella sin jerga —origen, estilo y con qué disfrutarla— para que brindes con más criterio y menos ruido. Cuidamos el proceso de principio a fin: catas a ciegas, selección por añada, conservación y embalaje antirotura, y un servicio cercano para que tu pedido llegue listo para descorcharse. Además del catálogo y accesorios, tienes suscripciones flexibles (Descubrimiento y Aficionado) para recibir 2–3 botellas al mes con fichas de cata, vídeo corto y descuentos. Vino honesto, bien tratado y sin complicarse.
